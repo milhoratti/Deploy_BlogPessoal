@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.generation.blogpessoal.controller.UsuarioControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.003 s - in com.generation.blogpessoal.controller.UsuarioControllerTest
